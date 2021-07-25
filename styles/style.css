@@ -1,0 +1,36 @@
+/* Universal */
+.font {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* Carousel Option */
+
+.margin {
+    margin-top: 70px;
+}
+
+.image {
+    height: 300px;
+    width: 500px;
+}
+
+/* Categories section */
+.categorie-bg {
+    background-color: rgba(92, 87, 87, 0.322);
+}
+
+.mouse {
+    cursor: pointer;
+}
+
+/* Cousrse Section */
+.card {
+    overflow: hidden;
+    transition: ease-out .5s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    transition: transform .5s ease-in;
+}
